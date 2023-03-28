@@ -1,0 +1,14 @@
+D:\Documents\Fanshawe\Design Patterns\Project 1\CP - Project 1\bin\Debug\netcoreapp3.0\Assi1.exe
+D:\Documents\Fanshawe\Design Patterns\Project 1\CP - Project 1\bin\Debug\netcoreapp3.0\Assi1.deps.json
+D:\Documents\Fanshawe\Design Patterns\Project 1\CP - Project 1\bin\Debug\netcoreapp3.0\Assi1.runtimeconfig.json
+D:\Documents\Fanshawe\Design Patterns\Project 1\CP - Project 1\bin\Debug\netcoreapp3.0\Assi1.runtimeconfig.dev.json
+D:\Documents\Fanshawe\Design Patterns\Project 1\CP - Project 1\bin\Debug\netcoreapp3.0\Assi1.dll
+D:\Documents\Fanshawe\Design Patterns\Project 1\CP - Project 1\bin\Debug\netcoreapp3.0\Assi1.pdb
+D:\Documents\Fanshawe\Design Patterns\Project 1\CP - Project 1\obj\Debug\netcoreapp3.0\Assi1.csproj.AssemblyReference.cache
+D:\Documents\Fanshawe\Design Patterns\Project 1\CP - Project 1\obj\Debug\netcoreapp3.0\Assi1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Fanshawe\Design Patterns\Project 1\CP - Project 1\obj\Debug\netcoreapp3.0\Assi1.AssemblyInfoInputs.cache
+D:\Documents\Fanshawe\Design Patterns\Project 1\CP - Project 1\obj\Debug\netcoreapp3.0\Assi1.AssemblyInfo.cs
+D:\Documents\Fanshawe\Design Patterns\Project 1\CP - Project 1\obj\Debug\netcoreapp3.0\Assi1.csproj.CoreCompileInputs.cache
+D:\Documents\Fanshawe\Design Patterns\Project 1\CP - Project 1\obj\Debug\netcoreapp3.0\Assi1.dll
+D:\Documents\Fanshawe\Design Patterns\Project 1\CP - Project 1\obj\Debug\netcoreapp3.0\Assi1.pdb
+D:\Documents\Fanshawe\Design Patterns\Project 1\CP - Project 1\obj\Debug\netcoreapp3.0\Assi1.genruntimeconfig.cache

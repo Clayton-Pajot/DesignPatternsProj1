@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SBBE38Z/1K++4Ngy3atCsTAv5xJXuf7t6/xq1HpgJz8RY0VLfwsEcIsGhs/mJ4r6ChNtIngOqhSjoiiWuFQCxQ==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Fanshawe\\Design Patterns\\Project 1\\CP - Project 1\\Assi1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Clayton\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Clayton\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Clayton\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Clayton\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
